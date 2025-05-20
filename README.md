@@ -31,3 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/f7fff968-8a82-4ed2-843d-8da781819c0b)
 
 - installing\Enabling IIS services with CGI on virtual machine.
+
+![image](https://github.com/user-attachments/assets/15e472d7-7d2a-47a2-9d06-a6ec64d980e9)
+
+- Installing PhP Manager for IIS.
