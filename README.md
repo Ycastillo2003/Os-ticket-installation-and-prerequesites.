@@ -20,6 +20,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-![image](https://github.com/user-attachments/assets/3332bcf8-2a50-4971-a575-719dac33112b)
+![image](https://github.com/user-attachments/assets/7d310b5e-6cbf-44eb-a16e-f908c40caf9c)
 
 - Creating a virtual machine enviroment to install osTicket.
