@@ -52,8 +52,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Installing MySql server and configuring Mysql Server instance.
 
-![image](https://github.com/user-attachments/assets/f980ba5a-b57a-4e6e-86fe-2ad4ffab2bfe)
+![image](https://github.com/user-attachments/assets/f980ba5a-b57a-4e6e-86fe-2ad4ffab2bfe) ![image](https://github.com/user-attachments/assets/ba4df560-18b3-4f59-9622-41097684285d)
 
-- Registering our Php version inside IIS.
+
+- Registering our Php version inside IIS and restarting our osTicket inside IIS.
 
 
