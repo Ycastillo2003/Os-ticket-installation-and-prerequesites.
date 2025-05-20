@@ -57,4 +57,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Registering our Php version inside IIS and restarting our osTicket inside IIS.
 
+![image](https://github.com/user-attachments/assets/361c2b8c-950f-4b9c-a028-a8cebf9b5478)
+
+- extracitng osticket files
 
