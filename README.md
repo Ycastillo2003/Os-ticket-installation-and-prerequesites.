@@ -39,3 +39,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/30338958-669c-4494-a3f2-da23b06ef622)
 
 - Installing IIS rewrite module.
+
+![image](https://github.com/user-attachments/assets/779383ba-b036-46ee-9052-56a90ec76b42)  ![image](https://github.com/user-attachments/assets/153ba5ae-9b74-4688-9bb6-164f7ebcc99d)
+
+
+- Creating PHP Folder on C drice  and extracting PHP files onto it.
