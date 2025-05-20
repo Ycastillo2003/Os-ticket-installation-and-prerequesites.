@@ -65,3 +65,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Moving upload folder from osTicket folder to Root server Folder and renaming upload folder to osTicket.
 
+![image](https://github.com/user-attachments/assets/6fd07179-e38c-417e-8899-7a22fd3d426e)
+
+- Opening osTicket in the browswer through IIS Manager.
+
