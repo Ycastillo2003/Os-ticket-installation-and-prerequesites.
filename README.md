@@ -26,5 +26,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/9231fc66-e346-4d3a-82e0-df32c140afea)  ![image](https://github.com/user-attachments/assets/d00b24a5-4fa1-4e04-883e-ec36636677dc)
 
-
 - Downloading the osTicket files and extracting them.
+
+![image](https://github.com/user-attachments/assets/f7fff968-8a82-4ed2-843d-8da781819c0b)
+
+- installing  ISS servvices on virtual machine.
