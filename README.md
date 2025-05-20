@@ -30,4 +30,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/f7fff968-8a82-4ed2-843d-8da781819c0b)
 
-- installing  ISS servvices on virtual machine.
+- installing  ISS services on virtual machine.
