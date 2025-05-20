@@ -92,3 +92,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/7b24ea57-6ddd-458e-a046-ae5c3e022735)
 
 - Opened Heidi sql Created a new session and connected to the session 
+
+![image](https://github.com/user-attachments/assets/253f682a-413a-4235-819d-65d8e595368a)
+
+- created a new database inside of Heidi Sql named osTicket.
