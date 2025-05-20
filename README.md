@@ -42,5 +42,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/779383ba-b036-46ee-9052-56a90ec76b42)  ![image](https://github.com/user-attachments/assets/153ba5ae-9b74-4688-9bb6-164f7ebcc99d)
 
-
-- Creating PHP Folder on C drice  and extracting PHP files onto it.
+- Creating PHP Folder on C drive and extracting PHP files onto it.
