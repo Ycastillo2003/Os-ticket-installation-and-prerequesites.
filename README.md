@@ -88,3 +88,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/86755e65-b6c6-4e99-88a2-60fcfd0dba00)
 
 - Installing Heidisql
+
+![image](https://github.com/user-attachments/assets/7b24ea57-6ddd-458e-a046-ae5c3e022735)
+
+- Opened Heidi sql Created a new session and connected to the session 
