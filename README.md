@@ -81,3 +81,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Renaming ost-sampleconfig.php to ost-config.php.
 
+![image](https://github.com/user-attachments/assets/8246c9d8-a52f-4f57-8b6b-447005d548d4)
+
+- Giving everyone full control so osTicket can make the filechange in the backend(i know this isnt good to do but is for the sake of and the lab and i dont know what username osticket goes by)
