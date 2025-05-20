@@ -96,3 +96,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/253f682a-413a-4235-819d-65d8e595368a)
 
 - created a new database inside of Heidi Sql named osTicket.
+
+![image](https://github.com/user-attachments/assets/94040798-7b5f-452c-81fd-50f382e88ece)
+
+- Installing osTicket
