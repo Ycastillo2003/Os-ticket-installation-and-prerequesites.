@@ -76,3 +76,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/64618dc2-c5e0-43e8-9da4-a3698cdd2b81)
 
 - Refreshing osTicket Page and verifying that the new extensions have been activated.
+
+![image](https://github.com/user-attachments/assets/3970ba78-74ab-4f12-8cb7-29cf14c1d673)
+
+- Renaming ost-sampleconfig.php to ost-config.php.
+
