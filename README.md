@@ -35,3 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/15e472d7-7d2a-47a2-9d06-a6ec64d980e9)
 
 - Installing PhP Manager for IIS.
+
+![image](https://github.com/user-attachments/assets/30338958-669c-4494-a3f2-da23b06ef622)
+
+- Installing IIS rewrite module.
