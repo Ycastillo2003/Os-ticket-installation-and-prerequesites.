@@ -104,3 +104,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/e35b4ad3-798d-430f-b7e3-12a1b8b53f4d)
 
 - installation successfully done.
+
+![image](https://github.com/user-attachments/assets/18078ee4-1e88-4f28-85e3-7c0d60dfe206)
+
+- Accessing the osTicket Main interface as an agent\admin and end user.
