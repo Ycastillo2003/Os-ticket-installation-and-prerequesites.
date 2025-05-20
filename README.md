@@ -72,3 +72,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/66069e60-25ef-408f-9222-38c8ff452de7)
 
 - Enabling php_imap.dll Php_opcache.dll php_intl.dll
+
+![image](https://github.com/user-attachments/assets/64618dc2-c5e0-43e8-9da4-a3698cdd2b81)
+
+- Refreshing osTicket Page and verifying that the new extensions have been activated.
