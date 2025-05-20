@@ -50,7 +50,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/449a6743-c119-4052-93d3-a7e6f854c353) ![image](https://github.com/user-attachments/assets/1ea3f9c4-9ffd-4c0d-a856-1d0149aff94f)
 
-
 - Installing MySql server and configuring Mysql Server instance.
+
+![image](https://github.com/user-attachments/assets/f980ba5a-b57a-4e6e-86fe-2ad4ffab2bfe)
+
+- Registering our Php version inside our IIS.
 
 
