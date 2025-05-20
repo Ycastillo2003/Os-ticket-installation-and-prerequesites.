@@ -61,3 +61,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Extracitng osTicket files.
 
+![image](https://github.com/user-attachments/assets/f6e8d26f-af8f-46f1-a7b0-e4f9ff5b9433) ![image](https://github.com/user-attachments/assets/46f82c76-204d-497b-a1a7-47d8f2b741b8)
+
+- Moving upload folder from osTicket folder to Root server Folder and renaming upload folder to osTicket.
+
