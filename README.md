@@ -83,15 +83,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/8246c9d8-a52f-4f57-8b6b-447005d548d4)
 
-- Giving everyone full control so osTicket can make the filechange in the backend(i know this isnt good to do but is for the sake of and the lab and i dont know what username osticket goes by)
+- Giving everyone full control so osTicket can make the filechange in the backend(i know this isnt good to do but is for the sake of and the lab and i dont know what username osticket goes by).
 
 ![image](https://github.com/user-attachments/assets/86755e65-b6c6-4e99-88a2-60fcfd0dba00)
 
-- Installing Heidisql
+- Installing Heidisql.
 
 ![image](https://github.com/user-attachments/assets/7b24ea57-6ddd-458e-a046-ae5c3e022735)
 
-- Opened Heidi sql Created a new session and connected to the session 
+- Opened Heidi sql Created a new session and connected to the session.
 
 ![image](https://github.com/user-attachments/assets/253f682a-413a-4235-819d-65d8e595368a)
 
@@ -99,4 +99,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/94040798-7b5f-452c-81fd-50f382e88ece)
 
-- Installing osTicket
+- Installing osTicket.
+
+![image](https://github.com/user-attachments/assets/e35b4ad3-798d-430f-b7e3-12a1b8b53f4d)
+
+- installation successfully done.
