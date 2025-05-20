@@ -69,3 +69,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Opening osTicket in the browswer through IIS Manager.
 
+![image](https://github.com/user-attachments/assets/66069e60-25ef-408f-9222-38c8ff452de7)
+
+- Enabling php_imap.dll Php_opcache.dll php_intl.dll
