@@ -54,6 +54,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/f980ba5a-b57a-4e6e-86fe-2ad4ffab2bfe)
 
-- Registering our Php version inside our IIS.
+- Registering our Php version inside IIS.
 
 
